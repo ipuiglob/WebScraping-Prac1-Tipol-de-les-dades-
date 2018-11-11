@@ -1,0 +1,10 @@
+periode,descripcio_curta,temperatura,descripcio
+ThisAfternoon,Slight ChanceRain,High: 41 °F,"This Afternoon: A slight chance of rain before 2pm, then a slight chance of rain after 4pm.  Cloudy, with a high near 41. West wind 10 to 13 mph, with gusts as high as 24 mph.  Chance of precipitation is 20%."
+Tonight,Slight ChanceSnow thenMostly Cloudy,Low: 25 °F,"Tonight: A slight chance of snow before 11pm.  Cloudy, then gradually becoming partly cloudy, with a low around 25. West wind 14 to 16 mph, with gusts as high as 29 mph.  Chance of precipitation is 20%."
+Saturday,Mostly Sunny,High: 36 °F,"Saturday: Mostly sunny, with a high near 36. West wind 14 to 17 mph, with gusts as high as 31 mph. "
+SaturdayNight,Mostly Clear,Low: 23 °F,"Saturday Night: Mostly clear, with a low around 23. West wind 5 to 8 mph becoming calm  in the evening. "
+VeteransDay,Mostly Sunny,High: 42 °F,"Veterans Day: Mostly sunny, with a high near 42. Calm wind becoming south 5 to 7 mph in the morning. "
+SundayNight,Mostly Cloudy,Low: 31 °F,"Sunday Night: Mostly cloudy, with a low around 31."
+Monday,Mostly Cloudythen ChanceShowers,High: 45 °F,"Monday: A chance of showers after 4pm.  Mostly cloudy, with a high near 45. Chance of precipitation is 30%."
+MondayNight,ShowersLikely thenRain/SnowLikely,Low: 31 °F,"Monday Night: Rain showers likely before midnight, then rain and snow showers likely between midnight and 3am, then snow showers likely after 3am.  Cloudy, with a low around 31. Chance of precipitation is 70%."
+Tuesday,ChanceRain/Snow,High: 36 °F,"Tuesday: A chance of rain and snow showers before 1pm, then a chance of rain showers between 1pm and 4pm, then a chance of rain and snow showers after 4pm.  Mostly cloudy, with a high near 36. Chance of precipitation is 50%."

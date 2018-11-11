@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding='iso-8859-1'?>
+<data>
+    <parc name="San Francisco">
+        <id>1</id>
+        <gps>MapClick.php?lon=-122.6458740234375&amp;lat=38.47509432050245#.W-RhqRFKjRY</gps>
+    </parc>
+    <parc name="Santa Rosa">
+        <id>2</id>
+        <gps>MapClick.php?lon=-122.72003173828124&amp;lat=38.44175788939691#.W-RhuBFKjRY</gps>
+    </parc>
+	<parc name="Phoenix">
+        <id>4</id>
+        <gps>MapClick.php?lon=-112.1044921875&amp;lat=33.44977658311845#.W-R0lhFKjRY</gps>
+    </parc>
+	<parc name="Prescott">
+        <id>5</id>
+        <gps>MapClick.php?lon=-112.45983123779295&amp;lat=34.54262098908495#.W-R1FRFKjRY</gps>
+    </parc>
+	<parc name="Albuquerque">
+        <id>6</id>
+        <gps>MapClick.php?lon=-106.66625976562499&amp;lat=35.09294531373263#.W-R1VxFKjRY</gps>
+    </parc>
+	<parc name="Reno">
+        <id>7</id>
+        <gps>MapClick.php?lon=-119.83337402343746&amp;lat=39.520992293571965#.W-VDwRFKjRY</gps>
+    </parc>
+	<parc name="Portland">
+        <id>8</id>
+        <gps>MapClick.php?lon=-122.67883300781247&amp;lat=45.51404592560422#.W-VEIBFKjRY</gps>
+    </parc>
+	<parc name="Missoula">
+        <id>9</id>
+        <gps>MapClick.php?lon=-114.01062011718751&amp;lat=46.8752133967227#.W-VEgBFKjRY</gps>
+    </parc>
+	<parc name="Great Falls">
+        <id>10</id>
+        <gps>MapClick.php?lon=-111.3079833984375&amp;lat=47.502358951968574#.W-VEuBFKjRY</gps>
+    </parc>
+	<parc name="Fargo">
+        <id>11</id>
+        <gps>MapClick.php?lon=-96.77856445312497&amp;lat=46.89023157359398#.W-VexhFKjRY</gps>
+    </parc>
+	<parc name="Milwaukee">
+        <id>12</id>
+        <gps>MapClick.php?lon=-87.95654296875001&amp;lat=43.06888777416961#.W-VfEhFKjRY</gps>
+    </parc>
+	<parc name="Columbus">
+        <id>14</id>
+        <gps>MapClick.php?lon=-83.02230834960938&amp;lat=39.94133068378693#.W-VfdxFKjRY</gps>
+    </parc>
+	<parc name="Cleveland">
+        <id>15</id>
+        <gps>MapClick.php?lon=-81.5130615234375&amp;lat=41.087632124679146#.W-VfmBFKjRY</gps>
+    </parc>
+</data>
