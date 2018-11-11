@@ -2,4 +2,5 @@
 
 Practica 1 de Tipologia i cicle de vida de les dades
 Tardor 2018
-Ivan Puig (ipuiglob@uoc.edu)
+Autor: Ivan Puig (ipuiglob@uoc.edu)
+Per a més informació consulteu la Wiki:
